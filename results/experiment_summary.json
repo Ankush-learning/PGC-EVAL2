@@ -1,0 +1,19 @@
+{
+  "system_info": {
+    "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "total_vram_mb": 6140.5,
+    "free_vram_mb": 5072.0,
+    "compute_capability": "8.9",
+    "sm_count": 20,
+    "cuda_driver_version": "13.1",
+    "concurrent_managed_access": false,
+    "os": "Windows 10",
+    "python_version": "3.10.6"
+  },
+  "cpu_gpu_verification_max_abs_error": 1.1920928955078125e-07,
+  "verification_passed": true,
+  "exp1_count": 20,
+  "exp2_count": 5,
+  "exp3_count": 4,
+  "exp4_count": 6
+}
